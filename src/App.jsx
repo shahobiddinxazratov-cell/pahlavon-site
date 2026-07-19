@@ -28,11 +28,11 @@ import {
 // ====== BACKEND MANZILI ======
 // Backendni deploy qilgach shu yerga uning manzilini yozing.
 // Masalan: "https://pahlavon-backend.onrender.com"
-const API_BASE_URL = "http://localhost:3001";
+const API_BASE_URL = "https://pahlavon-backend.onrender.com";
 
 // Footer'dagi "by Khazratov" shu havolaga olib boradi — o'zingizning
 // Telegram/Instagram/portfolio manzilingizni shu yerga yozing.
-const DEVELOPER_LINK = "https://t.me/your_username";
+const DEVELOPER_LINK = "https://t.me/xyscze";
 
 // ---- Token tizimi: Choyxona Cream / Belbog' Navy / Zafar Blue / Kurash Gold ----
 const C = {
